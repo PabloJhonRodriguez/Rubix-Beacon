@@ -79,7 +79,7 @@
 		A663E52F183C1ED300409C90 /* LBOptionPickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LBOptionPickerViewController.m; sourceTree = "<group>"; };
 		A663E531183C251F00409C90 /* NSDate+LBAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+LBAdditions.h"; sourceTree = "<group>"; };
 		A663E532183C251F00409C90 /* NSDate+LBAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+LBAdditions.m"; sourceTree = "<group>"; };
-		A67505C117EA77E5005F847D /* BC LitterBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BC LitterBox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A67505C117EA77E5005F847D /* RUBIX LitterBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RUBIX LitterBox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A67505C417EA77E5005F847D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A67505C617EA77E5005F847D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A67505C817EA77E5005F847D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -170,7 +170,7 @@
 		A67505C217EA77E5005F847D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A67505C117EA77E5005F847D /* BC LitterBox.app */,
+				A67505C117EA77E5005F847D /* RUBIX LitterBox.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -248,9 +248,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A67505C017EA77E5005F847D /* BC LitterBox */ = {
+		A67505C017EA77E5005F847D /* RUBIX LitterBox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A67505EA17EA77E5005F847D /* Build configuration list for PBXNativeTarget "BC LitterBox" */;
+			buildConfigurationList = A67505EA17EA77E5005F847D /* Build configuration list for PBXNativeTarget "RUBIX LitterBox" */;
 			buildPhases = (
 				14522D591A6C44C6993716E2 /* Check Pods Manifest.lock */,
 				A67505BD17EA77E5005F847D /* Sources */,
@@ -262,9 +262,9 @@
 			);
 			dependencies = (
 			);
-			name = "BC LitterBox";
+			name = "RUBIX LitterBox";
 			productName = LitterBox;
-			productReference = A67505C117EA77E5005F847D /* BC LitterBox.app */;
+			productReference = A67505C117EA77E5005F847D /* RUBIX LitterBox.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -294,7 +294,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A67505C017EA77E5005F847D /* BC LitterBox */,
+				A67505C017EA77E5005F847D /* RUBIX LitterBox */,
 			);
 		};
 /* End PBXProject section */
@@ -501,7 +501,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A67505EA17EA77E5005F847D /* Build configuration list for PBXNativeTarget "BC LitterBox" */ = {
+		A67505EA17EA77E5005F847D /* Build configuration list for PBXNativeTarget "RUBIX LitterBox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A67505EB17EA77E5005F847D /* Debug */,
